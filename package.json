@@ -1,5 +1,5 @@
 {
-  "name": "util_request",
+  "name": "util_react_request",
   "version": "0.0.1",
   "description": "对 dva/fetch 进行扩展",
   "main": "./index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThomasLiu/util_request.git"
+    "url": "git+https://github.com/ThomasLiu/util_react_request.git"
   },
   "author": "Thomas Lau (thomas_0836@qq.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThomasLiu/util_request/issues"
+    "url": "https://github.com/ThomasLiu/util_react_request/issues"
   },
-  "homepage": "https://github.com/ThomasLiu/util_request#readme",
+  "homepage": "https://github.com/ThomasLiu/util_react_request#readme",
   "dependencies": {
     "antd": "^3.11.2",
     "dva": "^2.4.1",
