@@ -1,0 +1,39 @@
+{
+  "name": "util_request",
+  "version": "0.0.1",
+  "description": "对 dva/fetch 进行扩展",
+  "main": "./index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLiu/util_request.git"
+  },
+  "author": "Thomas Lau (thomas_0836@qq.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLiu/util_request/issues"
+  },
+  "homepage": "https://github.com/ThomasLiu/util_request#readme",
+  "dependencies": {
+    "antd": "^3.11.2",
+    "dva": "^2.4.1",
+    "hash.js": "^1.1.7",
+    "util_react_web": "0.0.6",
+    "util_storage": "0.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-config-prettier": "^3.3.0",
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^5.2.0",
+    "power-assert": "^1.6.1",
+    "umi": "^2.2.8"
+  }
+}
